@@ -35,4 +35,4 @@ server:
 user:
   role: developer
 hello:
-  testing: example12345678
+  testing: exampleTest
