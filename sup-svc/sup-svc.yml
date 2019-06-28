@@ -34,3 +34,5 @@ server:
 
 user:
   role: developer
+hello:
+  testing: example
